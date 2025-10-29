@@ -32,4 +32,4 @@ main:
   - title: "Guide"
     url: /markdown/
   - title: "Test"
-    url: /_pages/test.md/
+    url: /pages/
